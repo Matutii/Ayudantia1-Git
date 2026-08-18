@@ -9,4 +9,4 @@ Generador de consejos aleatorios. Al hacer clic en el botón, consume la API de 
 ## Tecnología usada
 
 - HTML / CSS
-- JavaScript (const/let, arrow functions, template literals, async/await, try/catch/finally)
+- JavaScript 
